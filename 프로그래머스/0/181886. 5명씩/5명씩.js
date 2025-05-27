@@ -1,0 +1,1 @@
+function solution(names) {return [names[0], names[5], names[10], names[15], names[20], names[25],names[30]].filter(Boolean);}
