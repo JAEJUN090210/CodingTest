@@ -1,0 +1,1 @@
+const solution = (s) => (!isNaN(s))? Number(s) : String(s)
