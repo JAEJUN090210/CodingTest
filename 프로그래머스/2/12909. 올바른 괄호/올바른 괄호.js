@@ -4,5 +4,5 @@ function solution(s){
         count += s[i] == "(" ? 1 : -1;
         if (count < 0) return false;
     }
-    return (count === 0) ? true : false
+    return (count === 0)
 }
